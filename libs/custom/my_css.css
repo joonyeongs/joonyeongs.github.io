@@ -37,6 +37,9 @@ h4 {
   border-top: 1px solid #eee;
   padding: 4rem 0;
   margin-bottom: 0;}
+.pull-right {
+  display: inline-block;
+  margin-left: 1rem; }
 .footer {
   text-align: center;
   color: rgba(0, 0, 0, 0.4);
@@ -113,6 +116,9 @@ h4 {
     color: #222; }
   .navbar-link.active {
     color: #33C3F0; }
+  .pull-right {
+    float: right;
+    margin-left: 2rem; }
   .has-docked-nav .navbar {
     position: fixed;
     top: 0;
