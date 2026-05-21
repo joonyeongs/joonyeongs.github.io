@@ -1,5 +1,9 @@
 h4 {
   letter-spacing: .1rem; }
+a:not(.button):not(.navbar-link):not(.popover-link) {
+  color: #f4a460;
+  font-weight: 700;
+  text-decoration: none; }
 .container {
   max-width: 800px; }
 .header {
@@ -39,13 +43,16 @@ h4 {
   margin-bottom: 0;}
 .pull-right {
   display: inline-block;
-  margin-left: 1rem; }
+  margin-left: 1rem;
+  font-weight: 700; }
 .footer {
   text-align: center;
   color: rgba(0, 0, 0, 0.4);
   border-top: 1px solid #eee;
   padding: 15px 0 40px 0;
   margin-bottom: 0;}
+.footer-credit {
+  white-space: nowrap; }
 .navbar {
   display: none; }
 .title-subtitle h3 {

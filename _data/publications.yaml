@@ -3,6 +3,7 @@ papers:
   - title: "RLDX-1 Technical Report"
     authors: "RLDX Team (Core contributor)"
     paper_pdf: "https://arxiv.org/abs/2605.03269"
+    project_page: "https://www.rlwrld.ai/ko/rldx-1"
     code: "https://github.com/RLWRLD/RLDX-1"
     selected: n
 
@@ -16,6 +17,7 @@ papers:
     authors: "<b>Junyoung Sung</b>, Seungwoo Lyu, Minjun Kim, Sumin An, Arsha Nagrani, Paul Hongsuck Seo"
     venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026"
     paper_pdf: "https://arxiv.org/abs/2604.01634"
+    project_page: "https://joonyeongs.github.io/CRIT/"
     selected: y
 
   - title: "Breaking the Visual Shortcuts in Multimodal Knowledge-Based Visual Question Answering"
@@ -28,5 +30,6 @@ papers:
     authors: "Sumin An, <b>Junyoung Sung</b>, Wonpyo Park, Chanjun Park, Paul Hongsuck Seo"
     venue: "Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL) 2025, Oral Presentation"
     paper_pdf: "https://arxiv.org/abs/2502.06139"
+    project_page: "https://ssuminan.github.io/LCIRC/"
     code: "https://github.com/ssuminan/LCIRC"
     selected: y
