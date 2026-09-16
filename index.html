@@ -121,8 +121,9 @@ title: Home
   {% for edu in site.data.education.education %}
   <p>
     <b>{{ edu.institution }}</b> <span class="pull-right">{{ edu.time }}</span><br/>
-    {{ edu.degree }}<br/>
-    GPA: {{ edu.gpa }}
+    {{ edu.degree }}
+    {% if edu.lab %}<br/>{{ edu.lab }}{% if edu.advisor %} (Advisor: {{ edu.advisor }}){% endif %}{% endif %}
+    {% if edu.gpa %}<br/>GPA: {{ edu.gpa }}{% endif %}
   </p>
   {% endfor %}
 </div>

@@ -1,6 +1,12 @@
 education:
 
+- institution: "KAIST"
+  time: "Sep. 2026 – Present"
+  degree: "M.S. in Artificial Intelligence"
+  lab: "Algorithmic Intelligence Laboratory (ALIN-LAB)"
+  advisor: "Jinwoo Shin"
+
 - institution: "Korea University"
-  time: "Mar. 2020 – Present"
+  time: "Mar. 2020 – Aug. 2026"
   degree: "B.S. in Computing Science and Engineering"
   gpa: "4.41/4.5"
